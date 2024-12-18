@@ -22,7 +22,7 @@ features:
   - title: Upcoming Event
     description: |
       12/21 Winter Solstice @ TBT 1-3pm 
-      
+
       [![Holiday Flyer](assets/holiday_open_house.jpg)](assets/holiday_open_house.jpg)
     fontawesome_icon_name: calendar
 
@@ -33,7 +33,7 @@ features:
 
   - title: Make a Donation
     description: |
-      * Venmo[@Elizabeth-Burris-6](https://venmo.com/Elizabeth-Burris-6?txn=pay)
+      * Venmo [@Elizabeth-Burris-6](https://venmo.com/Elizabeth-Burris-6?txn=pay)
       * [https://tbtinc.org/our-causes/](https://tbtinc.org/our-causes/)
     fontawesome_icon_name: hand-holding-heart
 
