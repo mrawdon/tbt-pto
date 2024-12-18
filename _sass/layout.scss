@@ -279,6 +279,7 @@ nav > ul li a:active {
 
 @media only screen and (max-width: 768px) {
 	.pageInfo{
+		grid-column: 6/12;
 		margin-top:100px
 	}
 
@@ -329,18 +330,18 @@ nav > ul li a:active {
 	.pageInfoContainer {
 		width: 100%;
 		margin-left: 0px;
-		align-items: center;
+		
 		justify-content: center;
 	}
 
 	.pageTagline {
 		margin-top: 30px;
-		text-align: center;
+		
 	}
 	
 	.pageDescription {
 		margin-top: 13px;
-		text-align: center;
+		
 	}
 	
 } 
