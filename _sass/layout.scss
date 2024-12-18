@@ -128,7 +128,7 @@ header {
 	height: 50px;
 	-webkit-clip-path: url(#shape);
 	clip-path: url(#shape);
-	fill: $feature-icons-foreground-color
+	fill: $app-icon-color
 }
 
 @media only screen and (max-width: 768px) {
@@ -315,7 +315,7 @@ nav > ul li a:active {
 }
 
 .pageTagline {
-	color: $app-title-color;
+	color: $app-tagline-color
 }
 
 .pageDescription {

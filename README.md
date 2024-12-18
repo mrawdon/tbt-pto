@@ -45,6 +45,10 @@ Commit and push to your repo
 ### Step 5
 Configure Github Pages for this repo https://docs.github.com/en/pages/quickstar
 
+### Step 6
+To add an image place it under assets(give it a descriptive name)
+To update page content modify 
+
 
 ## Feedback
 If you have feedback regarding bugs or improvements, open an issue, @ me on Twitter or write me an email. You can find my contact info on my website.

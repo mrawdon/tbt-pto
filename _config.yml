@@ -1,7 +1,7 @@
 #page title
 page_title: Turn Back Time PTO
 page_tagline: Who we are
-page_description: Parents passionate about our children’s nature-based education looking to support TBT teachers and events.
+page_description: Parents passionate about our children’s nature-based education looking to support [Turn Back Time](https://tbtinc.org/) teachers and events.
 # Information About Yourself
 
 facebook_username:
@@ -53,12 +53,13 @@ cover_image: assets/headerimage.jpg # Replace with alternative image path or ima
 cover_overlay_color: "#363b3d"
 cover_overlay_transparency: 0.8
 
-device_color: black # Set to: blue, black, yellow, coral or white.
 
 body_background_color: "#ffffff"
 
 link_color: "#4ca997"
 
+app_icon_color: "#4ca997"
+app_tagline_color: "#4ca997"
 app_title_color: "#ffffff"
 app_description_color: "#ffffff"
 

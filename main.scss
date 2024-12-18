@@ -5,13 +5,14 @@
 $body-color: {{ site.body_background_color }};
 
 $header-image: "{{ site.cover_image }}";
-$device-color: "assets/{{ site.device_color }}.png";
 
 $accent-color: {{ site.link_color }};
 
 $header-title-color: {{ site.topbar_title_color }};
 $app-title-color: {{ site.app_title_color }};
 $app-description-color: {{ site.app_description_color }};
+$app-icon-color: {{ site.app_icon_color }};
+$app-tagline-color: {{ site.app_tagline_color }};
 
 $feature-title-color: {{ site.feature_title_color }};
 $feature-text-color: {{ site.feature_text_color }};
