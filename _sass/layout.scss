@@ -238,7 +238,7 @@ nav > ul li a:active {
 
 
 
-// App Title, Price, Description and Links
+// App Title,  Description and Links
 
 .appInfo {
 	grid-area: i;
@@ -292,7 +292,7 @@ nav > ul li a:active {
 }
 
 .feature img{
-	margin:10px;
+	margin: 5px;
 	max-height:500px;
 	max-width:50vw
 }
@@ -319,7 +319,7 @@ nav > ul li a:active {
 }
 
 .pageDescription {
-	color: $app-price-color;
+	color: $app-title-color;
 	font-weight: normal;
 	margin-top: 13px;
 }
@@ -363,7 +363,7 @@ nav > ul li a:active {
 
 .feature {
 	display: flex;
-	padding-top: 63px;
+	padding-top: 30px;
 	padding-left: 15px;
 	padding-right: 15px;
 	width: 100%;
@@ -414,7 +414,6 @@ nav > ul li a:active {
 
 	.feature {
 		display: flex;
-		padding-top: 41px;
 		padding-left: 15px;
 		padding-right: 15px;
 		width: 100%;
