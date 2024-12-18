@@ -406,17 +406,14 @@ nav > ul li a:active {
 @media only screen and (max-width: 992px) {
 
 	.features {
-		flex-grow: 1;
-		flex-direction: row;
-		flex-wrap: wrap;
 		margin-top: 50px;
 	}
 
 	.feature {
-		display: flex;
+		
 		padding-left: 15px;
 		padding-right: 15px;
-		width: 100%;
+		
 	}
 
 
@@ -424,40 +421,14 @@ nav > ul li a:active {
 }
 
 @media only screen and (max-width: 375px) {
-
-	.features {
-		flex-grow: 1;
-		flex-direction: row;
-		flex-wrap: wrap;
-		margin-top: 50px;
-	}
-
 	.feature {
-		display: flex;
-		padding-top: 41px;
+		
 		padding-left: 0px;
 		padding-right: 0px;
 		width: 100%;
 		font-size:16px;
 		margin-right:10px;
-	}
-
-	.feature:nth-child(-n+3) {
-		padding-top: 41px;   
-	}
-
-	.feature:nth-child(1) {
-		padding-top: 0px;   
-	}
-
-	.feature:nth-child(3n) {
-		padding-right: 0px;
-	}
-	
-	.feature:nth-child(3n+1) {
-		padding-left: 0px;
-	}
-	
+	}	
 } 
 
 
