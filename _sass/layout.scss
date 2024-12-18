@@ -292,6 +292,7 @@ nav > ul li a:active {
 }
 
 .feature img{
+	margin:10px;
 	max-height:500px;
 	max-width:50vw
 }
@@ -393,10 +394,13 @@ nav > ul li a:active {
 	color: $feature-title-color;
 }
 
+.featureText > p:first-child {
+	margin-top: 8px;
+}
+
 .featureText > p {
 	color: $feature-text-color;
-	margin-top: 8px;
-	line-height: 1.5;
+	line-height: 1.2;
 }
 
 @media only screen and (max-width: 992px) {
