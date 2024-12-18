@@ -43,7 +43,7 @@ Test local with `bundle exec jekyll serve`
 Commit and push to your repo
 
 ### Step 5
-Configure Github Pages for this repo https://docs.github.com/en/pages/quickstart
+Configure Github Pages for this repo https://docs.github.com/en/pages/quickstar
 
 
 ## Feedback
