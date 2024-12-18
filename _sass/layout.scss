@@ -291,16 +291,14 @@ nav > ul li a:active {
 
 }
 
-.feature-image{
-	height:500px;
+.feature img{
+	max-height:500px;
 	max-width:50vw
 }
 
-@media only screen and (max-width: 375px) {
-	.feature-image{
-		height: auto;
-	}
-
+.feature ul {
+	margin-left:20px;
+	list-style: circle
 }
 
 
@@ -478,6 +476,7 @@ footer {
 	text-align: center;
 	padding-top: 70px;
 	padding-bottom: 70px;
+	
 }
 
 .footerIcons {
@@ -491,6 +490,8 @@ footer {
 	display: flex;
 	text-align: center;
 	padding-bottom: 70px;
+	color: $footer-text-color;
+	font-size: 16px;
 }
 
 .footerLinks a {

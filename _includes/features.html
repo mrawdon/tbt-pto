@@ -12,10 +12,10 @@
             </div>
             <div class="featureText">
                 <h3>
-                    {{ feature.title }}
+                    {{ feature.title | markdownify }}
                 </h3>
                 <p>
-                    {{ feature.description }}
+                    {{ feature.description | markdownify }}
                 </p>
                 {% if feature.image %}
                     <a href="{{ feature.image }}"><img class='feature-image' src='{{ feature.image }}'/></a>
