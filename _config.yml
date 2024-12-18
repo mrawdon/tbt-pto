@@ -15,7 +15,7 @@ email_address                             : heatherpstanek@gmail.com
 features                                  :
 
   - title                                 : Next Meeting
-    description                           : Join us on the 2nd Wednesday of the month in the community yurt Next meeting is Wednesday, January 8 @ 4:15
+    description                           : Join us on the 2nd Wednesday of the month in the community yurt.<br/> Next meeting is Wednesday, January 8 @ 4:15
     fontawesome_icon_name                 : handshake
     
   - title                                 : Upcoming Event
@@ -28,7 +28,7 @@ features                                  :
     fontawesome_icon_name                 : heart
 
   - title                                 : Make a Donation
-    description                           : Venmo @Elizabeth-Burris-6 or at <a href='https://tbtinc.org/our-causes/'>https://tbtinc.org/our-causes/</a>
+    description                           : Venmo <a href='https://venmo.com/Elizabeth-Burris-6?txn=pay'>@Elizabeth-Burris-6</a> or at <a href='https://tbtinc.org/our-causes/'>https://tbtinc.org/our-causes/</a>
     fontawesome_icon_name                 : hand-holding-heart
 
   - title                                 : <a href='https://www.airbnb.com/rooms/649155734310747091?source_impression_id=p3_1733949811_P3tSzCKlHcP1h3aN'>Glamping at TBT</a>
