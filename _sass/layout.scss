@@ -305,6 +305,13 @@ nav > ul li a:active {
 	max-width:25vw
 }
 
+@media only screen and (max-width: 768px) {
+	.feature img{
+		max-height:500px;
+		max-width:50vw
+	}
+}
+
 .feature ul {
 	margin-left:20px;
 	list-style: circle
