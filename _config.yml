@@ -71,6 +71,13 @@ features:
 
     image: /assets/farmer_camp.jpeg
     fontawesome_icon_name: horse
+  - title: Family Farm Time
+    date: Fridays in May 10-11:30am
+    description: |
+      [Click Here To Register](https://lp.constantcontactpages.com/ev/reg/vprxr7c)
+
+    image: /assets/family_farmtime.png
+    fontawesome_icon_name: people-roof
 
   - title: Annual Farm Service Day (All Welcome)
     date: Saturday May 3rd 9-Noon 
@@ -86,13 +93,7 @@ features:
       Psst…Did you know that a % of proceeds are returned to TBT?
     image: /assets/pictures.png
     fontawesome_icon_name: camera
-  - title: Family Farm Time
-    date: Fridays in May 10-11:30am
-    description: |
-      [Click Here To Register](https://lp.constantcontactpages.com/ev/reg/vprxr7c)
 
-    image: /assets/family_farmtime.png
-    fontawesome_icon_name: people-roof
 
 
   - title: Check out
