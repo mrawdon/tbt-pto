@@ -409,6 +409,12 @@ nav > ul li a:active {
 	color: $feature-title-color;
 }
 
+.featureText > h4 {
+	color: $feature-text-color;
+	font-size: 16px;
+	line-height: 1.2;
+}
+
 .featureText > p:first-of-type {
 	margin-top: 8px;
 }
