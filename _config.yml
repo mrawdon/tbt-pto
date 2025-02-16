@@ -17,26 +17,39 @@ email_address: heatherpstanek@gmail.com
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 features:
   - title: Next Meeting
+    date: Wednesday March 12th @ 4:15
     description: |
       Join us on the 2nd Wednesday of every month in the community yurt.
-      
-      Next meeting is Wednesday, February 12th @ 4:15
     fontawesome_icon_name: handshake
-
-  - title: January Mini Camp 10am-1pm (Ages 4-11)
-    description: |
-      * [Jan. 20th](https://lp.constantcontactpages.com/ev/reg/kznzbvn)
-      
-      ![Sledding](/assets/minicamp.jpeg)
-    fontawesome_icon_name: tree
 
   - title: February Mini Camps 10am-1pm (Ages 4-11)
     description: |
       * [Feb. 17th ](https://lp.constantcontactpages.com/ev/reg/x3wusx3) 
       * [Feb. 19th](https://lp.constantcontactpages.com/ev/reg/efccbuz) 
       
-      ![Sledding](/assets/feb_camp.jpeg)
+    image: /assets/feb_camp.jpeg
     fontawesome_icon_name: tree
+
+  - title: Teacher Appreciation Breakfast 
+    date: Monday March 10th
+    description: |
+      [Sign up here to contribute a breakfast item](https://www.signupgenius.com/go/70A0C45ACAF2AA4FD0-55165628-tbtteacher)
+      
+    image: /assets/thanks.png
+    fontawesome_icon_name: mug-saucer
+
+  - title: Family Picnic 
+    date: Thursday March 27th
+    description: |
+      ![picnic](/assets/family_picnic.png)
+    fontawesome_icon_name: sun
+
+  - title:  Service Day (Adults Only)
+    date: Friday April 11th 9-1
+    description: |
+      Come  to learn about the PTO and get the gardens ready with Miss Beth
+    image: /assets/garden.png
+    fontawesome_icon_name: trowel
 
   - title: April Mini Camps 10am-1pm (Ages 4-7)
     description: |
@@ -45,7 +58,7 @@ features:
       * [April 23](https://lp.constantcontactpages.com/ev/reg/hr9a43c) 
       * [April 24](https://lp.constantcontactpages.com/ev/reg/qb9m62y) 
       
-      ![Sledding](/assets/april_camp.jpeg)
+    image: /assets/april_camp.jpeg
     fontawesome_icon_name: tree
      
   - title: New camp alert! 10am-1pm (Ages 8-11) 
@@ -56,8 +69,31 @@ features:
       * [April 23](https://lp.constantcontactpages.com/ev/reg/p9ta2be) 
       * [April 24](https://lp.constantcontactpages.com/ev/reg/sarrvt6) 
 
-      ![Farmer camp](/assets/farmer_camp.jpeg)
+    image: /assets/farmer_camp.jpeg
     fontawesome_icon_name: horse
+
+  - title: Annual Farm Service Day (All Welcome)
+    date: Saturday May 3rd 9-Noon 
+    description: |
+      [Click Here To Register](https://lp.constantcontactpages.com/ev/reg/jhwgtx2)
+
+    image: /assets/service_day.png
+    fontawesome_icon_name: person-digging
+
+  - title: Picture Day
+    date: Thursday May 8th
+    description: |
+      Psst…Did you know that a % of proceeds are returned to TBT?
+    image: /assets/pictures.png
+    fontawesome_icon_name: camera
+  - title: Family Farm Time
+    date: Fridays in May 10-11:30am
+    description: |
+      [Click Here To Register](https://lp.constantcontactpages.com/ev/reg/vprxr7c)
+
+    image: /assets/family_farmtime.png
+    fontawesome_icon_name: people-roof
+
 
   - title: Check out
     description: |
