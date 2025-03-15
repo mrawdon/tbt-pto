@@ -17,23 +17,32 @@ email_address: heatherpstanek@gmail.com
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 features:
   - title: Next Meeting
-    date: Wednesday March 12th @ 4:15
+    date: Wednesday April 9th @ 4:15
     description: |
       Join us on the 2nd Wednesday of every month in the community yurt.
     fontawesome_icon_name: handshake
 
-  - title: Teacher Appreciation Breakfast 
-    date: Monday March 10th
+  - title: "TBT Cluck Bucket: Save your food scraps for our chickens!"
     description: |
-      [Sign up here to contribute a breakfast item](https://www.signupgenius.com/go/70A0C45ACAF2AA4FD0-55165628-tbtteacher)
+      Empty collection buckets will be available at the farm stand. Simply fill them up at home and swap them for an empty bucket the next week. 
+    fontawesome_icon_name: egg
+    image: /assets/cluck_bucket.jpg
+  - title: Critter Catchers
+    description: |
+      Now Enrolling for Mondays April 28-June 10 (Wednesday session is full) 
       
-    image: /assets/thanks.png
-    fontawesome_icon_name: mug-saucer
+      Cost is $210
 
-  - title: Family Picnic 
-    date: Thursday March 27th
+      Message Miss Lisa at [lisab@tbtinc.org](emailto:lisab@tbtinc.org) to register
+
+    fontawesome_icon_name: paw
+    image: /assets/critter_catchers.png
+  
+  - title: Family Picnic & Scavenger Hunt
+    date: Thursday March 27th @ 5:30-7:30
     description: |
-      ![picnic](/assets/family_picnic.png)
+      Finishers will be entered into a raffle for a $25 giftcard to the farm store! 
+    image: /assets/family_picnic.png
     fontawesome_icon_name: sun
 
   - title:  Service Day (Adults Only)
@@ -80,11 +89,20 @@ features:
     fontawesome_icon_name: person-digging
 
   - title: Picture Day
-    date: Thursday May 8th
+    date: Thursday May 15th
     description: |
       Psst…Did you know that a % of proceeds are returned to TBT?
     image: /assets/pictures.png
     fontawesome_icon_name: camera
+  
+  - title: Family Movie Night On The Farm
+    date: Friday, May 30 6-9pm
+    description: |
+      Calling all current families and TBT alums for a movie night in the barn! Bring your own chair. 
+
+      Rain date: Saturday, May 31
+    image: /assets/movie_night.png
+    fontawesome_icon_name: film
 
 
 
