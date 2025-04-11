@@ -19,6 +19,11 @@
                     {{ feature.date | markdownify }}
                 </h4>
                 {% endif %}        
+                {% if feature.location %}
+                <h4>
+                    {{ feature.location | markdownify }}
+                </h4>
+                {% endif %}        
                 <p>
                     {{ feature.description | markdownify }}
                 </p>

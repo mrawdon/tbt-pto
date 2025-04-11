@@ -17,7 +17,7 @@ email_address: heatherpstanek@gmail.com
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 features:
   - title: Next Meeting
-    date: Wednesday April 9th @ 4:15
+    date: Wednesday May 14th @ 4:15
     description: |
       Join us on the 2nd Wednesday of every month in the community yurt.
     fontawesome_icon_name: handshake
@@ -27,30 +27,6 @@ features:
       Empty collection buckets will be available at the farm stand. Simply fill them up at home and swap them for an empty bucket the next week. 
     fontawesome_icon_name: egg
     image: /assets/cluck_bucket.jpg
-  - title: Critter Catchers
-    description: |
-      Now Enrolling for Mondays April 28-June 10 (Wednesday session is full) 
-      
-      Cost is $210
-
-      Message Miss Lisa at [lisab@tbtinc.org](emailto:lisab@tbtinc.org) to register
-
-    fontawesome_icon_name: paw
-    image: /assets/critter_catchers.png
-  
-  - title: Family Picnic & Scavenger Hunt
-    date: Thursday March 27th @ 5:30-7:30
-    description: |
-      Finishers will be entered into a raffle for a $25 giftcard to the farm store! 
-    image: /assets/family_picnic.png
-    fontawesome_icon_name: sun
-
-  - title:  Service Day (Adults Only)
-    date: Friday April 11th 9-1
-    description: |
-      Come  to learn about the PTO and get the gardens ready with Miss Beth
-    image: /assets/garden.png
-    fontawesome_icon_name: trowel
 
   - title: April Mini Camps 10am-1pm (Ages 4-7)
     description: |
@@ -72,6 +48,21 @@ features:
 
     image: /assets/farmer_camp.jpeg
     fontawesome_icon_name: horse
+  
+  - title: |
+      [Bayberry Bowling Fundraising Event](https://www.bayberrybowl.com/)
+    date: Friday May 9 @ 5pm
+    location: 326 Main St Spencer MA
+    description: |
+      Bayberry has graciously offered to donate 10% of proceeds back to us! 
+      
+      Interested in attending? [Fill out this survey to let us know.](https://docs.google.com/forms/d/e/1FAIpQLSfh7WRBgizfHoPPgKCciz_5MS20HB6M9Bzbtl-DMvXfCY7eTA/viewform?usp=sharing)
+      
+      Interested in donating a basket to be raffled off? Email [nicoleann.fitzpatrick@gmail.com](mailto:nicoleann.fitzpatrick@gmail.com)
+    
+    image: /assets/bowling.png
+    fontawesome_icon_name: bowling-ball
+
   - title: Family Farm Time
     date: Fridays in May 10-11:30am
     description: |
@@ -103,6 +94,22 @@ features:
       Rain date: Saturday, May 31
     image: /assets/movie_night.png
     fontawesome_icon_name: film
+
+  # - title: Pepe’s Taqueria Restaurant Fundraiser
+  #   location: 645 Chandler St, Worcester, MA 
+  #   date: Friday, May 30 6-9pm
+  #   description: |
+  #     Pepe’s has graciously offered to donate XXX% of proceeds back to us! 
+
+    image: /assets/pepes.jpg
+    fontawesome_icon_name: utensils
+
+  - title: LAST DAY OF SCHOOL
+    date: June 12th
+    description: |
+      Last day celebration and moving up ceremony! 
+    image: /assets/grad.png
+    fontawesome_icon_name: graduation-cap
 
 
 
