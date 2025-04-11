@@ -101,8 +101,8 @@ features:
   #   description: |
   #     Pepe’s has graciously offered to donate XXX% of proceeds back to us! 
 
-    image: /assets/pepes.jpg
-    fontawesome_icon_name: utensils
+    # image: /assets/pepes.jpg
+    # fontawesome_icon_name: utensils
 
   - title: LAST DAY OF SCHOOL
     date: June 12th
