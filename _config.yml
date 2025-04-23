@@ -79,6 +79,14 @@ features:
     image: /assets/service_day.png
     fontawesome_icon_name: person-digging
 
+  - title: Pepe’s Taqueria Restaurant Fundraiser
+    location: 645 Chandler St, Worcester, MA 
+    date: Wednesday, May 14 4-7pm DINE IN ONLY
+    description: |
+      Pepe’s has graciously offered to donate 10% of proceeds back to TBT!
+    image: /assets/pepes.jpg
+    fontawesome_icon_name: utensils
+
   - title: Picture Day
     date: Thursday May 15th
     description: |
@@ -94,15 +102,6 @@ features:
       Rain date: Saturday, May 31
     image: /assets/movie_night.png
     fontawesome_icon_name: film
-
-  # - title: Pepe’s Taqueria Restaurant Fundraiser
-  #   location: 645 Chandler St, Worcester, MA 
-  #   date: Friday, May 30 6-9pm
-  #   description: |
-  #     Pepe’s has graciously offered to donate XXX% of proceeds back to us! 
-
-    # image: /assets/pepes.jpg
-    # fontawesome_icon_name: utensils
 
   - title: LAST DAY OF SCHOOL
     date: June 12th
