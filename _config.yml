@@ -17,9 +17,10 @@ email_address: heatherpstanek@gmail.com
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 features:
   - title: Next Meeting
-    date: Wednesday May 14th @ 4:15
+    date: Wednesday June 4th @ 4:15
     description: |
       Join us on the 2nd Wednesday of every month in the community yurt.
+      * This month's meeting was changed to the first week
     fontawesome_icon_name: handshake
 
   - title: "TBT Cluck Bucket: Save your food scraps for our chickens!"
@@ -27,90 +28,36 @@ features:
       Empty collection buckets will be available at the farm stand. Simply fill them up at home and swap them for an empty bucket the next week. 
     fontawesome_icon_name: egg
     image: /assets/cluck_bucket.jpg
-
-  - title: April Mini Camps 10am-1pm (Ages 4-7)
-    description: |
-      * [April 21](https://lp.constantcontactpages.com/ev/reg/knrkpxh) 
-      * [April 22](https://lp.constantcontactpages.com/ev/reg/gve9eve) 
-      * [April 23](https://lp.constantcontactpages.com/ev/reg/hr9a43c) 
-      * [April 24](https://lp.constantcontactpages.com/ev/reg/qb9m62y) 
-      
-    image: /assets/april_camp.jpeg
-    fontawesome_icon_name: tree
-     
-  - title: New camp alert! 10am-1pm (Ages 8-11) 
-    description: |
-      Farmer in Training Camp with Miss. Amy & Miss. Beth
-      * [April 21](https://lp.constantcontactpages.com/ev/reg/hh5h8n4) 
-      * [April 22](https://lp.constantcontactpages.com/ev/reg/xd7ha5g) 
-      * [April 23](https://lp.constantcontactpages.com/ev/reg/p9ta2be) 
-      * [April 24](https://lp.constantcontactpages.com/ev/reg/sarrvt6) 
-
-    image: /assets/farmer_camp.jpeg
-    fontawesome_icon_name: horse
   
-  - title: |
-      [Bayberry Bowling Fundraising Event](https://www.bayberrybowl.com/)
-    date: Friday May 9 @ 5pm
-    location: 326 Main St Spencer MA
-    description: |
-      Bayberry has graciously offered to donate 10% of proceeds back to us! 
-      
-      Interested in attending? [Fill out this survey to let us know.](https://docs.google.com/forms/d/e/1FAIpQLSfh7WRBgizfHoPPgKCciz_5MS20HB6M9Bzbtl-DMvXfCY7eTA/viewform?usp=sharing)
-      
-      Interested in donating a basket to be raffled off? Email [nicoleann.fitzpatrick@gmail.com](mailto:nicoleann.fitzpatrick@gmail.com)
-    
-    image: /assets/bowling.png
-    fontawesome_icon_name: bowling-ball
-
-  - title: Family Farm Time
-    date: Fridays in May 10-11:30am
-    description: |
-      [Click Here To Register](https://lp.constantcontactpages.com/ev/reg/vprxr7c)
-
-    image: /assets/family_farmtime.png
-    fontawesome_icon_name: people-roof
-
-  - title: Annual Farm Service Day (All Welcome)
-    date: Saturday May 3rd 9-Noon 
-    description: |
-      [Click Here To Register](https://lp.constantcontactpages.com/ev/reg/jhwgtx2)
-
-    image: /assets/service_day.png
-    fontawesome_icon_name: person-digging
-
-  - title: Pepe’s Taqueria Restaurant Fundraiser
-    location: 645 Chandler St, Worcester, MA 
-    date: Wednesday, May 14 4-7pm DINE IN ONLY
-    description: |
-      Pepe’s has graciously offered to donate 10% of proceeds back to TBT!
-    image: /assets/pepes.jpg
-    fontawesome_icon_name: utensils
-
-  - title: Picture Day
-    date: Thursday May 15th
-    description: |
-      Psst…Did you know that a % of proceeds are returned to TBT?
-    image: /assets/pictures.png
-    fontawesome_icon_name: camera
-  
-  - title: Family Movie Night On The Farm
+  - title: Family Movie Night & Gear Swap
     date: Friday, May 30 6-9pm
     description: |
       Calling all current families and TBT alums for a movie night in the barn! Bring your own chair. 
+      * Donate kids gear & used clothing 
+      * Infant thru youth sizes welcome
+      * Families "shop" for free 
 
       Rain date: Saturday, May 31
     image: /assets/movie_night.png
     fontawesome_icon_name: film
+  
+  - title: Staff Appreciation Brunch
+    date: June 2nd
+    description: |
+      [Click here to sign up](https://www.signupgenius.com/go/70A0C45ACAF2AA4FD0-56983154-tbtteacher)
+
+    image: /assets/thanks.png
+    fontawesome_icon_name: mug-saucer
 
   - title: LAST DAY OF SCHOOL
-    date: June 12th
+    date: June 12th 5-7PM
     description: |
       Last day celebration and moving up ceremony! 
+      * Bring your own food family picnic 
+      * Performances by your children
+
     image: /assets/grad.png
     fontawesome_icon_name: graduation-cap
-
-
 
   - title: Check out
     description: |
