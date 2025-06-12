@@ -17,7 +17,7 @@ email_address: heatherpstanek@gmail.com
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 features:
   - title: Next Meeting
-    date: Wednesday June 4th @ 4:15
+    date: Wednesday September 10th 4:15pm
     description: |
       Join us on the 2nd Wednesday of every month in the community yurt.
       * This month's meeting was changed to the first week
@@ -28,36 +28,29 @@ features:
       Empty collection buckets will be available at the farm stand. Simply fill them up at home and swap them for an empty bucket the next week. 
     fontawesome_icon_name: egg
     image: /assets/cluck_bucket.jpg
-  
-  - title: Family Movie Night & Gear Swap
-    date: Friday, May 30 6-9pm
+
+  - title: PTO Sponsored Family Campout 
+    date: Friday, July 11 check-in 12pm—5pm, checkout 11am 
     description: |
-      Calling all current families and TBT alums for a movie night in the barn! Bring your own chair. 
-      * Donate kids gear & used clothing 
-      * Infant thru youth sizes welcome
-      * Families "shop" for free 
+      - [Click here to register & pay](https://forms.gle/oYPJYM8U4gRGf3dA8)
+      - Space is limited. Reserve your tent site today!
 
-      Rain date: Saturday, May 31
-    image: /assets/movie_night.png
-    fontawesome_icon_name: film
-  
-  - title: Staff Appreciation Brunch
-    date: June 2nd
+    image: /assets/campout.png
+    fontawesome_icon_name: tents
+
+  - title: Family Picnic & Gear Swap
+    date: Thursday, August 28 
     description: |
-      [Click here to sign up](https://www.signupgenius.com/go/70A0C45ACAF2AA4FD0-56983154-tbtteacher)
+      Family picnic at 5pm 
 
-    image: /assets/thanks.png
-    fontawesome_icon_name: mug-saucer
+    image: /assets/family_picnic_2.png
+    fontawesome_icon_name: basket-shopping
 
-  - title: LAST DAY OF SCHOOL
-    date: June 12th 5-7PM
-    description: |
-      Last day celebration and moving up ceremony! 
-      * Bring your own food family picnic 
-      * Performances by your children
+  - title: FIRST DAY OF SCHOOL
+    date: Tuesday, Sept 2nd
 
-    image: /assets/grad.png
-    fontawesome_icon_name: graduation-cap
+    image: /assets/back_to_school.png
+    fontawesome_icon_name: pen-to-square
 
   - title: Check out
     description: |
@@ -66,7 +59,7 @@ features:
 
   - title: Make a Donation
     description: |
-      * Venmo [@Elizabeth-Burris-6](https://venmo.com/Elizabeth-Burris-6?txn=pay)
+      * Venmo [@TBT-PTO](https://venmo.com/TBT-PTO?txn=pay)
       * [https://tbtinc.org/our-causes/](https://tbtinc.org/our-causes/)
     fontawesome_icon_name: hand-holding-heart
 
