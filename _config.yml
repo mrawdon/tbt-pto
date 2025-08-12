@@ -20,7 +20,6 @@ features:
     date: Wednesday September 10th 4:15pm
     description: |
       Join us on the 2nd Wednesday of every month in the community yurt.
-      * This month's meeting was changed to the first week
     fontawesome_icon_name: handshake
 
   - title: "TBT Cluck Bucket: Save your food scraps for our chickens!"
@@ -29,19 +28,12 @@ features:
     fontawesome_icon_name: egg
     image: /assets/cluck_bucket.jpg
 
-  - title: PTO Sponsored Family Campout 
-    date: Friday, July 11 check-in 12pm—5pm, checkout 11am 
-    description: |
-      - [Click here to register & pay](https://forms.gle/oYPJYM8U4gRGf3dA8)
-      - Space is limited. Reserve your tent site today!
-
-    image: /assets/campout.png
-    fontawesome_icon_name: tents
-
   - title: Family Picnic & Gear Swap
     date: Thursday, August 28 
     description: |
       Family picnic at 5pm 
+      
+      Donate your gently used outdoor clothing & footwear or browse for items your child might need for the upcoming school year! 
 
     image: /assets/family_picnic_2.png
     fontawesome_icon_name: basket-shopping
@@ -51,6 +43,33 @@ features:
 
     image: /assets/back_to_school.png
     fontawesome_icon_name: pen-to-square
+  
+  - title: Family Farm Time in September!
+    date: Fridays in September
+    description: | 
+      More information and registration available [here](https://tbtinc.org/family-farm-time/)
+
+
+    image: /assets/farm_time.png
+    fontawesome_icon_name: wheat-awn
+
+  - title: Forest Fest
+    date:  Saturday September 20, 2025 1:00-6:00 RAIN OR SHINE
+    description: |
+      ☀️Food, Drinks, Live Music, Farm Animals, Fire, Fairy House Competition, Forest Fun Run & More!
+      * Register for FREE [here](https://lp.constantcontactpages.com/ev/reg/687nrhy)
+      * Interested in being a vendor? Complete the [application](https://form.jotform.com/251694635283162)!
+
+    image: /assets/forest_fest.jpg
+    fontawesome_icon_name: tree
+
+  - title: Golf Tournament
+    date:  Saturday October 4th
+    description: |
+       [Register Here!](https://lp.constantcontactpages.com/ev/reg/e5jvqb3)
+
+    image: /assets/golf_tournament.jpg
+    fontawesome_icon_name: golf-ball-tee
 
   - title: Check out
     description: |
