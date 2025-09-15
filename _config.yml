@@ -17,7 +17,7 @@ email_address: turnbacktime.pto@gmail.com
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 features:
   - title: Next Meeting
-    date: Wednesday September 10th 4:15pm
+    date: Wednesday October 8th 4:15pm
     description: |
       Join us on the 2nd Wednesday of every month in the community yurt.
     fontawesome_icon_name: handshake
@@ -28,48 +28,46 @@ features:
     fontawesome_icon_name: egg
     image: /assets/cluck_bucket.jpg
 
-  - title: Family Picnic & Gear Swap
-    date: Thursday, August 28 
-    description: |
-      Family picnic at 5pm 
-      
-      Donate your gently used outdoor clothing & footwear or browse for items your child might need for the upcoming school year! 
-
-    image: /assets/family_picnic_2.png
-    fontawesome_icon_name: basket-shopping
-
-  - title: FIRST DAY OF SCHOOL
-    date: Tuesday, Sept 2nd
-
-    image: /assets/back_to_school.png
-    fontawesome_icon_name: pen-to-square
-  
-  - title: Family Farm Time in September!
-    date: Fridays in September
-    description: | 
-      More information and registration available [here](https://tbtinc.org/family-farm-time/)
-
-
-    image: /assets/farm_time.png
-    fontawesome_icon_name: wheat-awn
-
   - title: Forest Fest
     date:  Saturday September 20, 2025 1:00-6:00 RAIN OR SHINE
     description: |
       ☀️Food, Drinks, Live Music, Farm Animals, Fire, Fairy House Competition, Forest Fun Run & More!
       * Register for FREE [here](https://lp.constantcontactpages.com/ev/reg/687nrhy)
       * Interested in being a vendor? Complete the [application](https://form.jotform.com/251694635283162)!
-
+      * It's not too late to [sign up to volunteer at Forest Fest](https://www.signupgenius.com/go/70A0C45ACAF2AA4FD0-58610057-forest)
     image: /assets/forest_fest.jpg
     fontawesome_icon_name: tree
 
+  - title: Staff Appreciation Brunch
+    date:  Monday September 29th
+    description: |
+       [Click here to sign up](https://www.signupgenius.com/go/70A0C45ACAF2AA4FD0-55165628-tbtteacher#/)
+
+       If your child does not attend on Mondays, feel free to bring your item any day of the week.
+
+    image: /assets/thanks.png
+    fontawesome_icon_name: heart
+  
   - title: Golf Tournament
     date:  Saturday October 4th
     description: |
        [Register Here!](https://lp.constantcontactpages.com/ev/reg/e5jvqb3)
-
     image: /assets/golf_tournament.jpg
     fontawesome_icon_name: golf-ball-tee
+
+  - title: Yoga on the Farm
+    date:  Upcoming Event
+    description: |
+       If you are a certified yoga instructor or know someone who would be interested in holding a 45 minute yoga class on the farm this fall, email PTOTBT@proton.me 
+    image: /assets/yoga.png
+    fontawesome_icon_name: calendar
+
+  - title: Family Picnic
+    date:  Thursday October 30th 5-7PM
+    description: |
+       Bring your own food family picnic 
+    image: /assets/family_picnic.png
+    fontawesome_icon_name: shopping-basket
 
   - title: Check out
     description: |
