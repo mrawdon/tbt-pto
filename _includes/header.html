@@ -1,13 +1,23 @@
 <header>
-	<div class="logo">
-		<div class="appIconShadow">
-			<img class="headerIcon" src="{{ site.page_icon | relative_url }}"/>
-			
-			
-			<div class="divider"></div>
+	<a href="/">
+		<div class="logo">
+			<div class="appIconShadow">
+				<img class="headerIcon" src="{{ site.page_icon | relative_url }}"/>
+				
+			</div>
+			<p class="headerName">{{ site.page_title }}</p>
 		</div>
-		<p class="headerName">{{ site.page_title }}</p>
-		
-	</div>
-
+	</a>
+	<nav class="scroll" style="margin-right:20px">
+		<ul>
+			{% for page in site.pages %}
+				{% if page.include_in_header == true %}
+				<li><a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a></li>
+				{% endif %}
+			{% endfor %}
+			{% if site.presskit_download_link %}
+				<li><a href="{{ site.presskit_download_link }}">Press Kit</a></li>
+			{% endif %}
+		</ul>
+	</nav>
 </header>
