@@ -4,10 +4,10 @@ title: Board
 long_title: Meet Our Board
 include_in_header: false
 content_list: 
-    - name: Jane Doe
+    - name: Nicole Rawdon
       role: President   
-      description: Jane has been an active parent volunteer for over 6 years. With a background in nonprofit management, she brings strong leadership and a passion for building community at TBT.
-      image:  /assets/back_to_school.png
+      description: Nicole loves that TBT helps kids of all abilities learn through play. The school has provided incredible opportunities for her kids and she is excited to give back via her new role on the board. 
+      image:  /assets/nicole_rawdon.png
     - name: John Smith
       role: Vice President   
       description: John is a dedicated PTO member with a background in finance. He’s committed to supporting fundraising initiatives that directly benefit our students and teachers.
