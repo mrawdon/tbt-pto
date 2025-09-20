@@ -6,7 +6,7 @@ include_in_header: true
 content_list: 
     - name: Nicole Rawdon
       role: President   
-      description: I love that TBT helps kids of all abilities and needs learn through play. The school has profoundly impacted my boys by fostering their curiosity and love of movement, while simultaneously teaching them all of the things without ever forcing them to sit at a desk. I'm so grateful for the unique and vital education TBT offers and I’m excited to have this opportunity to give back to the school community. 
+      description: I love that TBT helps kids of all abilities learn through play. The school has profoundly impacted my boys by fostering their curiosity and love of movement, while simultaneously teaching them all of the things- without ever forcing them to sit at a desk. I'm so grateful for the unique and vital education TBT offers. I’m excited to have this opportunity to give back to the school community. 
       image:  /assets/nicole_rawdon.png
     - name: Heather Stanek
       id: heather
@@ -25,7 +25,7 @@ content_list:
       image:  /assets/becky.jpg
     - name: Nancy Baffa
       role: Teacher Ambassador
-      description: I am excited to be joining the PTO this year as the “Teacher Ambassador.” I look forward to working with the vibrant group of parent volunteers  to support and enrich the entire farm school community
+      description: I am excited to be joining the PTO this year as the “Teacher Ambassador.” I look forward to working with the vibrant group of parent volunteers  to support and enrich the entire farm school community.
       image:  /assets/nancy.jpg
 ---
 
