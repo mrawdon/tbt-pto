@@ -7,7 +7,13 @@
   <link rel="shortcut icon" href="{{ site.page_icon | relative_url }}">
 
 	<script src="https://kit.fontawesome.com/8bd40d0225.js" crossorigin="anonymous"></script>
-
+  <script>
+    function expand(e){
+      e.target.parentElement.classList.toggle('expanded');
+      e.target.parentElement.classList.toggle('collapsed');
+    }
+    
+  </script>
 	
 	<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
   <style>
@@ -137,6 +143,21 @@
 
     /* Accessibility */
     a:focus { outline: 3px solid var(--grain); outline-offset: 2px; }
+
+    .expander.collapsed p{
+      display: none
+    }
+    .expander.collapsed .collapse{
+      display: none
+    }
+
+    .expander.expanded .expand{
+      display: none
+    }
+    .logo{
+      margin-left: 15px;
+    }
+
   </style>
 </head>
 <body >
@@ -161,7 +182,13 @@
                 </div>
                 </div>
                 <p class="bio">{{item.description}}</p>
-                
+                {% if item.extended_description %}
+                  <div class="expander collapsed">
+                    <a class="expand" onclick="expand(event)">More...</a>
+                    <p class="bio">{{item.extended_description}}</p>
+                    <a class="collapse" onclick="expand(event)">Collapse</a>
+                  <div>
+                {% endif %}
             </article>
 
        {% endfor %}
