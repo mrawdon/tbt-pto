@@ -17,7 +17,7 @@ email_address: turnbacktime.pto@gmail.com
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 features:
   - title: Next Meeting
-    date: Wednesday October 8th 4:15pm
+    date: Wednesday November 12th 4:15pm
     description: |
       Join us on the 2nd Wednesday of every month in the community yurt.
     fontawesome_icon_name: handshake
@@ -28,14 +28,14 @@ features:
     fontawesome_icon_name: egg
     image: /assets/cluck_bucket.jpg
 
-  - title: Yoga on the Farm
-    date:  Friday October 17 10am 
+  - title: Yoga on the Farm - BACK BY POPULAR DEMAND!
+    date:  Friday October 31 10am 
     description: |
       Come join other TBT parents for a relaxing yoga class on the farm. All levels welcome. 
       
       $30 (includes childcare) 
       
-      [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdemxRTWk0DNNjtWO7RapNvt9gLtwV-F_VtJCl65oJ0eLwl8g/viewform?usp=sharing&ouid=112733756960616477696)
+      [Register here](https://forms.gle/MK74RoPvsRPJMBrt8)
     image: /assets/yoga.png
     fontawesome_icon_name: calendar
 
@@ -54,7 +54,7 @@ features:
   - title: Make a Donation
     description: |
       * Venmo [@TBT-PTO](https://venmo.com/TBT-PTO?txn=pay)
-      * [https://tbtinc.org/our-causes/](https://tbtinc.org/our-causes/)
+      * [https://tbtinc.org/our-causes/](https://tbtinc.or)g/our-causes/)
     fontawesome_icon_name: hand-holding-heart
 
   - title: "[Glamping at TBT](https://www.airbnb.com/rooms/649155734310747091?source_impression_id=p3_1733949811_P3tSzCKlHcP1h3aN)"
