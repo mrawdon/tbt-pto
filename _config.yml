@@ -17,7 +17,7 @@ email_address: turnbacktime.pto@gmail.com
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 features:
   - title: Next Meeting
-    date: Wednesday November 12th 4:15pm
+    date: Wednesday December 10th 4:15pm
     description: |
       Join us on the 2nd Wednesday of every month in the community yurt.
     fontawesome_icon_name: handshake
@@ -27,24 +27,22 @@ features:
       Empty collection buckets will be available at the farm stand. Simply fill them up at home and swap them for an empty bucket the next week. 
     fontawesome_icon_name: egg
     image: /assets/cluck_bucket.jpg
-
-  - title: Yoga on the Farm - BACK BY POPULAR DEMAND!
-    date:  Friday October 31 10am 
+  
+  - title: TBT Staff Giving Tree
+    date: Now - Dec 11th
     description: |
-      Come join other TBT parents for a relaxing yoga class on the farm. All levels welcome. 
-      
-      $30 (includes childcare) 
-      
-      [Register here](https://forms.gle/MK74RoPvsRPJMBrt8)
-    image: /assets/yoga.png
-    fontawesome_icon_name: calendar
+      Staff submitted their wishlists & we made tags. |
+      Tags are on display outside the welcome garden |
+      Select a tag, purchase an item or gift card |
+      Return your unwrapped item by Dec. 11 |
+      No time to shop? Consider donating via Venmo [@TBT-PTO](https://venmo.com/TBT-PTO?txn=pay)
+    fontawesome_icon_name: gift
+    image: /assets/giving_tree.jpg
 
-  - title: Family Picnic
-    date:  Thursday October 30th 5-7PM
-    description: |
-       Bring your own food family picnic 
-    image: /assets/family_picnic.png
-    fontawesome_icon_name: shopping-basket
+  - title: TBT Staff Giving Tree
+    date: Now - Dec 13th
+    fontawesome_icon_name: envelope
+    image: /assets/card_drive.jpg
 
   - title: Check out
     description: |
