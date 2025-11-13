@@ -45,7 +45,7 @@ features:
     fontawesome_icon_name: gift
     image: /assets/giving_tree.jpg
 
-  - title: TBT Staff Giving Tree
+  - title: Card Drive
     date: Now - Dec 13th
     fontawesome_icon_name: envelope
     image: /assets/card_drive.jpg
