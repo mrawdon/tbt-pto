@@ -31,11 +31,17 @@ features:
   - title: TBT Staff Giving Tree
     date: Now - Dec 11th
     description: |
-      Staff submitted their wishlists & we made tags. |
-      Tags are on display outside the welcome garden |
-      Select a tag, purchase an item or gift card |
-      Return your unwrapped item by Dec. 11 |
-      No time to shop? Consider donating via Venmo [@TBT-PTO](https://venmo.com/TBT-PTO?txn=pay)
+      Staff submitted their wishlists & we made tags. 
+
+      Tags are on display outside the welcome garden 
+
+      Select a tag, purchase an item or gift card 
+
+      Return your unwrapped item by Dec. 11 
+
+      No time to shop? 
+      
+      Consider donating via Venmo [@TBTPTO](https://venmo.com/TBTPTO?txn=pay)
     fontawesome_icon_name: gift
     image: /assets/giving_tree.jpg
 
@@ -51,7 +57,7 @@ features:
 
   - title: Make a Donation
     description: |
-      * Venmo [@TBT-PTO](https://venmo.com/TBT-PTO?txn=pay)
+      * Venmo [@TBTPTO](https://venmo.com/TBTPTO?txn=pay)
       * [https://tbtinc.org/our-causes/](https://tbtinc.or)g/our-causes/)
     fontawesome_icon_name: hand-holding-heart
 
