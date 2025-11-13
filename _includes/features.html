@@ -1,39 +1,42 @@
 <div class="features">
+    {% for page in site.pages %}
+        {% if page.title == "Features" %}
+            {% for feature in page.content_list %}
 
-    {% for feature in site.features %}
+                {% if feature.title %}
+                <div class="feature">
+                    <div>
+                        <span class="fa-stack fa-1x">
+                            <i class="iconBack fas fa-circle fa-stack-2x"></i>
+                            <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-1x"></i>
+                        </span>
+                    </div>
+                    <div class="featureText">
+                        <h3>
+                            {{ feature.title | markdownify }}
+                        </h3>
+                        {% if feature.date %}
+                        <h4>
+                            {{ feature.date | markdownify }}
+                        </h4>
+                        {% endif %}        
+                        {% if feature.location %}
+                        <h4>
+                            {{ feature.location | markdownify }}
+                        </h4>
+                        {% endif %}        
+                        <p>
+                            {{ feature.description | markdownify }}
+                        </p>
+                        {% if feature.image %}
+                            <a href="{{ feature.image }}"><img class='feature-image' src='{{ feature.image }}'/></a>
+                        {% endif %}        
+                    </div>
+                </div>
+                {% endif %}
 
-        {% if feature.title %}
-        <div class="feature">
-            <div>
-                <span class="fa-stack fa-1x">
-                    <i class="iconBack fas fa-circle fa-stack-2x"></i>
-                    <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-1x"></i>
-                </span>
-            </div>
-            <div class="featureText">
-                <h3>
-                    {{ feature.title | markdownify }}
-                </h3>
-                {% if feature.date %}
-                <h4>
-                    {{ feature.date | markdownify }}
-                </h4>
-                {% endif %}        
-                {% if feature.location %}
-                <h4>
-                    {{ feature.location | markdownify }}
-                </h4>
-                {% endif %}        
-                <p>
-                    {{ feature.description | markdownify }}
-                </p>
-                {% if feature.image %}
-                    <a href="{{ feature.image }}"><img class='feature-image' src='{{ feature.image }}'/></a>
-                {% endif %}        
-            </div>
-        </div>
+            {% endfor %}
         {% endif %}
-
     {% endfor %}
 
 </div>
