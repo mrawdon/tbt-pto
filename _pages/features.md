@@ -7,7 +7,7 @@ include_in_header: false
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 content_list: 
   - title: Next Meeting
-    date: Wednesday December 10th 4:15pm
+    date: Wednesday January 14th 4:15pm
     description: |
       Join us on the 2nd Wednesday of every month in the community yurt.
     fontawesome_icon_name: handshake
