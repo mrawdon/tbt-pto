@@ -79,7 +79,7 @@ content_list:
     date: Ongoing
     description: |
       Each year, Turn Back Time offers scholarships as part of the Card to Culture program. This allows all families an opportunity to experience the amazing programs on the farm. Part of our mission as the TBT PTO is to help support this scholarship fund by giving 1/3 of our fundraising efforts directly to it.
-    fontawesome_icon_name: google-scholar
+    fontawesome_icon_name: graduation-cap
     image: /assets/scholarship_fund.jpg
 ---
 
