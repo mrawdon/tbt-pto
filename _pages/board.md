@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: board
 title: Board
 long_title: Meet Our Board
 include_in_header: true
