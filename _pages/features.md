@@ -18,43 +18,16 @@ content_list:
     fontawesome_icon_name: egg
     image: /assets/cluck_bucket.jpg
   
-  - title: TBT Staff Giving Tree
-    date: Now - Dec 11th
+  - title: TBT Spring Gladiator Games & Mud Mayhem
+    date: May 30 (tentative) 
     description: |
-      Staff submitted their wishlists & we made tags. 
-
-      Tags are on display outside the welcome garden 
-
-      Select a tag, purchase an item or gift card 
-
-      Return your unwrapped item by Dec. 11 
-
-      No time to shop? 
+      We are in the early stages of planning a fun, family orientated sponsor-based competition for a spring fundraiser, but we need your help! This event will require many volunteers to make it a success; consider joining us in the planning, advertising, or day of coordinating. 
       
-      Consider donating via Venmo [@TBTPTO](https://venmo.com/TBTPTO?txn=pay)
-    fontawesome_icon_name: gift
-    image: /assets/giving_tree.jpg
+      THANK YOU
+      
+      [Sign Up Link](https://docs.google.com/forms/d/e/1FAIpQLSc7cG1K9ypWdNyvUPDxupOfe2pZCwPP8Y1fXEZqkW_cH4s84A/viewform?usp=sharing&ouid=112733756960616477696)
 
-  - title: Card Drive
-    date: Now - Dec 13th
-    fontawesome_icon_name: envelope
-    image: /assets/card_drive.jpg
-
-  - title: Holiday Open House
-    date: December 13th 1-3pm
-    description: |
-      Food, Fun, & Forest Time  
-
-      Celebrate the Upcoming Winter Solstice 
-
-      FREE & open to the public 
-    fontawesome_icon_name: candy-cane
-    image: /assets/holiday_open_house.jpg
-
-  - title: Check out
-    description: |
-      [Teacher Wish List](https://docs.google.com/document/d/1aeH7aQ9TLy5BWykcYRYtBAEiy445rRGSf-XcSOJ8oDE/edit?tab=t.0)
-    fontawesome_icon_name: heart
+    fontawesome_icon_name: hill-rockslide
 
   - title: Make a Donation
     description: |
