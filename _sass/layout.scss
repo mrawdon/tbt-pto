@@ -180,6 +180,21 @@ header {
 	
 } 
 
+@media only screen and (max-width: 550px) {
+	.headerBackground {
+		height: 120px;
+	}
+	header {
+		flex-direction: column;
+	}
+	.scroll {
+		height: 80px;
+		margin-top: -100px;
+		
+	}	
+	
+} 
+
 .scroll::-webkit-scrollbar {
 	display: none;
 }
