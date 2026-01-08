@@ -31,7 +31,7 @@ content_list:
     description: |
       We gathered in the barn to watch The Lorax on the big screen!
     fontawesome_icon_name: film
-    image: /assets/movie_night.jpg
+    image: /assets/movie_night_log.jpg
 
   - title: TBT PTO 1st Annual Campout
     date: July
@@ -73,7 +73,7 @@ content_list:
     description: |
       In 2025, we organized 3 staff brunches. We invited families to drop off food and beverage items as a way to say thank you to our fantastic teachers. Staff have expressed how much they appreciate this new tradition; we look forward to continuing it in 2026!
     fontawesome_icon_name: mug-saucer
-    image: /assets/thanks.png
+    image: /assets/staff_brunch.jpg
     
   - title: TBT Scholarship Fund
     date: Ongoing
