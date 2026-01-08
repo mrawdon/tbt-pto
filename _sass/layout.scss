@@ -298,17 +298,21 @@ nav > ul li a:active {
 
 }
 
-.feature img{
+.feature img, .projects img{
 	margin: 5px;
-	max-height:300px;
+	max-height:400px;
 	max-width:25vw
 }
 
+
+
+
 @media only screen and (max-width: 768px) {
-	.feature img{
+	.feature img, .projects img{
 		max-height:500px;
 		max-width:50vw
 	}
+	
 }
 
 .feature ul {
