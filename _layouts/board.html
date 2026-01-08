@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{page.title}} | TBT PTO</title>
+  <link rel="shortcut icon" href="{{ site.page_icon | relative_url }}">
+
+	<script src="https://kit.fontawesome.com/8bd40d0225.js" crossorigin="anonymous"></script>
+  <script>
+    function expand(e){
+      e.target.parentElement.classList.toggle('expanded');
+      e.target.parentElement.classList.toggle('collapsed');
+    }
+    
+  </script>
+	
+	<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
+  <style>
+    :root{
+      --bg: #f6f3ec;           /* light parchment */
+      --surface: #ffffff;       /* card background */
+      --ink: #2a2a2a;          /* primary text */
+      --forest: #2f6f3e;       /* brand-ish green */
+      --moss: #5a8a66;         /* secondary green */
+      --grain: #a37c27;        /* warm accent */
+      --shadow: 0 8px 24px rgba(0,0,0,.08);
+      --radius: 14px;
+    }
+
+    html, body { height: 100%; }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      line-height: 1.55;
+      color: var(--ink);
+      background: var(--bg);
+    }
+
+    /* Section shell mirrors the simple, airy layout on tbtpto.com */
+    .board-members {
+      padding: clamp(32px, 5vw, 72px);
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .eyebrow { 
+      letter-spacing: .12em; 
+      text-transform: uppercase; 
+      color: var(--moss); 
+      font-weight: 700; 
+      font-size: .8rem; 
+    }
+
+    .board-members h2 {
+      font-family: Georgia, "Times New Roman", Times, serif; /* organic/nature vibe */
+      font-size: clamp(1.8rem, 3.2vw, 2.6rem);
+      margin: 8px 0 18px;
+      color: var(--forest);
+    }
+
+    .intro {
+      max-width: 68ch;
+      margin: 0 auto 28px;
+      color: #3a3a3a;
+      font-size: 1.05rem;
+    }
+
+    .board-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: clamp(18px, 2.4vw, 28px);
+      align-items: start;
+    }
+
+    .board-card {
+      background: var(--surface);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 22px;
+      text-align: left;
+      border: 1px solid rgba(47,111,62,.08);
+      height:100%;
+    }
+
+    .figure {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 12px;
+    }
+
+    .figure img {
+      width: 88px;
+      height: 88px;
+      border-radius: 999px;
+      object-fit: cover;
+      border: 3px solid rgba(163,124,39,.25); /* warm accent ring */
+    }
+
+    .name {
+      font-size: 1.7rem;
+      margin: 0;
+      color: var(--ink);
+    }
+
+    .role {
+      margin: 2px 0 0;
+      color: var(--forest);
+      font-weight: 700;
+      font-size: 1.5rem;
+    }
+
+    .bio { color: #444; margin: 10px 0 14px; }
+
+    .links { display: flex; flex-wrap: wrap; gap: 10px; }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: rgba(47,111,62,.08);
+      color: var(--forest);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: .9rem;
+      transition: transform .12s ease, background .12s ease;
+    }
+    .chip:hover { transform: translateY(-1px); background: rgba(47,111,62,.14); }
+
+    /* subtle divider between rows on narrow screens */
+    .board-card + .board-card { position: relative; }
+    @media (max-width: 640px){
+      .board-card + .board-card::before{
+        content: "";
+        position: absolute; left: 22px; right: 22px; top: -10px;
+        height: 1px; background: rgba(0,0,0,.06);
+      }
+    }
+
+    /* Accessibility */
+    a:focus { outline: 3px solid var(--grain); outline-offset: 2px; }
+
+    .expander.collapsed p{
+      display: none
+    }
+    .expander.collapsed .collapse{
+      display: none
+    }
+
+    .expander.expanded .expand{
+      display: none
+    }
+    .logo{
+      margin-left: 15px;
+    }
+
+  </style>
+</head>
+<body >
+    <div class=" ">
+      <div style="height:120px" class="imageWrapper">  
+        {% include header.html %}
+      </div>
+    <section class="board-members">
+    
+    <h2>{{page.long_title}}</h2>
+    <div class="board-grid">
+      <!-- Card 1 -->
+       {% for item in  page.content_list %}
+              <article class="board-card">
+                <div class="figure">
+                <img src="{{item.image}}" alt="Jane Doe">
+                <div>
+                    <h3 class="name">{{item.name}}</h3>
+                    {% if item.role %}
+                        <p class="role">{{item.role}}</p>
+                    {% endif %}
+                </div>
+                </div>
+                <p class="bio">{{item.description}}</p>
+                {% if item.extended_description %}
+                  <div class="expander collapsed">
+                    <a class="expand" onclick="expand(event)">More...</a>
+                    <p class="bio">{{item.extended_description}}</p>
+                    <a class="collapse" onclick="expand(event)">Collapse</a>
+                  <div>
+                {% endif %}
+            </article>
+
+       {% endfor %}
+       
+     
+    </div>
+  </section>
+</div>
+</body>
+</html>
