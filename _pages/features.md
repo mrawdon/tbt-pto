@@ -17,6 +17,14 @@ content_list:
       Empty collection buckets will be available at the farm stand. Simply fill them up at home and swap them for an empty bucket the next week. 
     fontawesome_icon_name: egg
     image: /assets/cluck_bucket.jpg
+
+  - title: Staff Brunch
+    date: January 26th
+    description: |
+       [Sign up](https://www.signupgenius.com/go/70A0C45ACAF2AA4FD0-61529577-tbtstaff) to drop off a food/beverage item for the January staff brunch. 
+
+    fontawesome_icon_name: mug-saucer
+    image: /assets/staff_brunch.png
   
   - title: TBT Spring Gladiator Games & Mud Mayhem
     date: May 30 (tentative) 
@@ -26,6 +34,7 @@ content_list:
       THANK YOU
       
       [Sign Up Link](https://docs.google.com/forms/d/e/1FAIpQLSc7cG1K9ypWdNyvUPDxupOfe2pZCwPP8Y1fXEZqkW_cH4s84A/viewform?usp=sharing&ouid=112733756960616477696)
+    image: /assets/gladiator.jpg
 
     fontawesome_icon_name: hill-rockslide
 
