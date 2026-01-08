@@ -37,7 +37,7 @@ content_list:
   - title: TBT PTO 1st Annual Campout
     date: July
     description: |
-      Our most fun commity event to date! 20 families explored the farm together, played under the stars, made smores, told stories, watched a movie in the barn, and awoke early to the sights & sounds of the farm.
+      Our most fun community event to date! 20 families explored the farm together, played under the stars, made smores, told stories, watched a movie in the barn, and awoke early to the sights & sounds of the farm.
     fontawesome_icon_name: tents
     image: /assets/july_campout.jpg
 
