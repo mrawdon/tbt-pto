@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Projects
+title: 2025 Projects
 long_title: 2025 TBT PTO Fundraisers & Projects 
 sub_title: A Year In Review
 include_in_header: true
