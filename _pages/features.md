@@ -21,7 +21,7 @@ content_list:
     image: /assets/staff_brunch.png
 
   - title: Bayberry Bowling Fundraiser
-    date: January 26th
+    date: February 6th 5-9pm
     description: |
        Get the whole family together for a fun night of bowling, arcade games, and raffle prizes!
        Spencer, MA
