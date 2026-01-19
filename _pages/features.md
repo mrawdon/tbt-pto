@@ -7,16 +7,10 @@ include_in_header: false
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 content_list: 
   - title: Next Meeting
-    date: Wednesday January 14th 4:15pm
+    date: Wednesday February 10th 7pm
     description: |
-      Join us on the 2nd Wednesday of every month in the community yurt.
+      We're trying out a new format for our next meeting.  Join us virutally for our next meeting.  Meeting link will be sent out the day of.
     fontawesome_icon_name: handshake
-
-  - title: "TBT Cluck Bucket: Save your food scraps for our chickens!"
-    description: |
-      Empty collection buckets will be available at the farm stand. Simply fill them up at home and swap them for an empty bucket the next week. 
-    fontawesome_icon_name: egg
-    image: /assets/cluck_bucket.jpg
 
   - title: Staff Brunch
     date: January 26th
@@ -25,6 +19,22 @@ content_list:
 
     fontawesome_icon_name: mug-saucer
     image: /assets/staff_brunch.png
+
+  - title: Bayberry Bowling Fundraiser
+    date: January 26th
+    description: |
+       Get the whole family together for a fun night of bowling, arcade games, and raffle prizes!
+       Spencer, MA
+
+    fontawesome_icon_name: bowling-ball
+    image: /assets/bowling.png
+
+  - title: February & April Mini Camps
+    description: |
+       [Click here to learn more](https://tbtinc.org/events/category/category-event/list/)
+
+    fontawesome_icon_name: tree
+    image: /assets/sledding.jpg
   
   - title: TBT Spring Gladiator Games & Mud Mayhem
     date: May 30 (tentative) 
@@ -48,5 +58,12 @@ content_list:
   - title: "[Glamping at TBT](https://www.airbnb.com/rooms/649155734310747091?source_impression_id=p3_1733949811_P3tSzCKlHcP1h3aN)"
     description: Looking for a budget-friendly staycation option? Look no further than the cabins at TBT and enjoy full access to the farm! Cabins are available May-October.
     fontawesome_icon_name: campground
+  
+  - title: "TBT Cluck Bucket: Save your food scraps for our chickens!"
+    description: |
+      Empty collection buckets will be available at the farm stand. Simply fill them up at home and swap them for an empty bucket the next week. 
+    fontawesome_icon_name: egg
+    image: /assets/cluck_bucket.jpg
+
 ---
 
