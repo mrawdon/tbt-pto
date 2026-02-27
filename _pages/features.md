@@ -7,34 +7,21 @@ include_in_header: false
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 content_list: 
   - title: Next Meeting
-    date: Wednesday February 10th 7pm
+    date: Wednesday March 11th 4:15pm
     description: |
-      We're trying out a new format for our next meeting.  Join us virutally for our next meeting.  Meeting link will be sent out the day of.
+      Join us on the 2nd Wednesday of every month in the community yurt.
     fontawesome_icon_name: handshake
 
-  - title: Staff Brunch
-    date: January 26th
-    description: |
-       [Sign up](https://www.signupgenius.com/go/70A0C45ACAF2AA4FD0-61529577-tbtstaff) to drop off a food/beverage item for the January staff brunch. 
-
-    fontawesome_icon_name: mug-saucer
-    image: /assets/staff_brunch.png
-
-  - title: Bayberry Bowling Fundraiser
-    date: February 6th 5-9pm
-    description: |
-       Get the whole family together for a fun night of bowling, arcade games, and raffle prizes!
-       Spencer, MA
-
-    fontawesome_icon_name: bowling-ball
-    image: /assets/bowling.png
-
-  - title: February & April Mini Camps
+  - title: April Mini Camps
     description: |
        [Click here to learn more](https://tbtinc.org/events/category/category-event/list/)
 
     fontawesome_icon_name: tree
     image: /assets/sledding.jpg
+
+  - title: Restaurant Night at Hot Table
+    date: April 15 4-9pm 
+    image: /assets/hottable.jpg
   
   - title: TBT Spring Gladiator Games & Mud Mayhem
     date: May 30 (tentative) 
