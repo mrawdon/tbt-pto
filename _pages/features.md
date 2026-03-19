@@ -7,9 +7,9 @@ include_in_header: false
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 content_list: 
   - title: Next Meeting
-    date: Wednesday March 11th 4:15pm
+    date: Wednesday April 7th Virtual @ 7pm
     description: |
-      Join us on the 2nd Wednesday of every month in the community yurt.
+      Zoom link will be shared the same day
     fontawesome_icon_name: handshake
 
   - title: April Mini Camps
@@ -19,11 +19,16 @@ content_list:
     fontawesome_icon_name: tree
     image: /assets/sledding.jpg
 
+  - title: Restaurant Night at Pepe's
+    date: March 25 4-8pm 
+    image: /assets/pepes.jpg
+  
+  
   - title: Restaurant Night at Hot Table
     date: April 15 4-9pm 
     image: /assets/hottable.jpg
   
-  - title: TBT Spring Gladiator Games & Mud Mayhem
+  - title: TBT Nature Ninja Games & Mud Mayhem
     date: May 30 (tentative) 
     description: |
       We are in the early stages of planning a fun, family orientated sponsor-based competition for a spring fundraiser, but we need your help! This event will require many volunteers to make it a success; consider joining us in the planning, advertising, or day of coordinating. 
