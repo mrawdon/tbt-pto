@@ -21,12 +21,14 @@ content_list:
 
   - title: Restaurant Night at Pepe's
     date: March 25 4-8pm 
+    fontawesome_icon_name: pepper-hot
     image: /assets/pepes.jpg
   
   
   - title: Restaurant Night at Hot Table
     date: April 15 4-9pm 
     image: /assets/hottable.jpg
+    fontawesome_icon_name: bread-slice
   
   - title: TBT Nature Ninja Games & Mud Mayhem
     date: May 30 (tentative) 
