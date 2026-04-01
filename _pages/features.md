@@ -19,28 +19,35 @@ content_list:
     fontawesome_icon_name: tree
     image: /assets/sledding.jpg
 
-  - title: Restaurant Night at Pepe's
-    date: March 25 4-8pm 
-    fontawesome_icon_name: pepper-hot
-    image: /assets/pepes.jpg
-  
-  
+  - title: Staff Appreciation Lunch
+    date: Monday, April 6th
+    image: /assets/thanks.png
+    fontawesome_icon_name: mug-saucer
+    description: |
+      [Sign Up](https://www.signupgenius.com/go/70A0C45ACAF2AA4FD0-63237714-tbtstaff) to bring a food or beverage item for the staff lunch
+      
+
   - title: Restaurant Night at Hot Table
     date: April 15 4-9pm 
     image: /assets/hottable.jpg
     fontawesome_icon_name: bread-slice
   
-  - title: TBT Nature Ninja Games & Mud Mayhem
-    date: May 30 (tentative) 
+  - title: TBT Nature Ninja Challenge 
+    date: Saturday, May 30th
     description: |
-      We are in the early stages of planning a fun, family orientated sponsor-based competition for a spring fundraiser, but we need your help! This event will require many volunteers to make it a success; consider joining us in the planning, advertising, or day of coordinating. 
-      
-      THANK YOU
+      Journey through the woods & compete in a nature-based obstacle course to raise money for Turn Back Time. Family fun for all ages: bounce house, food trucks, DJ, touch-a-truck, animal meet & greets 
+
       
       [Sign Up Link](https://docs.google.com/forms/d/e/1FAIpQLSc7cG1K9ypWdNyvUPDxupOfe2pZCwPP8Y1fXEZqkW_cH4s84A/viewform?usp=sharing&ouid=112733756960616477696)
     image: /assets/gladiator.jpg
-
     fontawesome_icon_name: hill-rockslide
+
+  - title: Save the Date-2nd Annual TBT PTO Summer Campout
+    date: Thursday June 18th-Saturday June 20th
+    desciption: Signups & more info to come
+    image: /assets/camping.png
+    fontawesome_icon_name: campground
+    
 
   - title: Make a Donation
     description: |
