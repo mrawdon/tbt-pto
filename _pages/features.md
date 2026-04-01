@@ -7,7 +7,7 @@ include_in_header: false
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 content_list: 
   - title: Next Meeting
-    date: Wednesday April 7th Virtual @ 7pm
+    date: Tuesday April 7th Virtual @ 7pm
     description: |
       Zoom link will be shared the same day
     fontawesome_icon_name: handshake
