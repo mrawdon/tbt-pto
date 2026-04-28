@@ -7,40 +7,36 @@ include_in_header: false
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 content_list: 
   - title: Next Meeting
-    date: Tuesday April 7th Virtual @ 7pm
+    date: Tuesday May 13th 4:15pm
     description: |
-      Zoom link will be shared the same day
+      In-person on the farm (childcare provided)
     fontawesome_icon_name: handshake
 
-  - title: April Mini Camps
-    description: |
-       [Click here to learn more](https://tbtinc.org/events/category/category-event/list/)
-
-    fontawesome_icon_name: tree
-    image: /assets/sledding.jpg
-
-  - title: Staff Appreciation Lunch
-    date: Monday, April 6th
-    image: /assets/thanks.png
-    fontawesome_icon_name: mug-saucer
-    description: |
-      [Sign Up](https://www.signupgenius.com/go/70A0C45ACAF2AA4FD0-63237714-tbtstaff) to bring a food or beverage item for the staff lunch
-      
-
-  - title: Restaurant Night at Hot Table
-    date: April 15 4-9pm 
-    image: /assets/hottable.jpg
-    fontawesome_icon_name: bread-slice
   
+  - title: Picture Day
+    date: Thursday, May 14th
+    description: |
+      [schoolartstudio.com](https://schoolartstudio.com )
+    image: /assets/pictures.png
+    fontawesome_icon_name: camera
+
+
   - title: TBT Nature Ninja Challenge 
     date: Saturday, May 30th
     description: |
       Journey through the woods & compete in a nature-based obstacle course to raise money for Turn Back Time. Family fun for all ages: bounce house, food trucks, DJ, touch-a-truck, animal meet & greets 
 
       
-      [Sign Up Link](https://docs.google.com/forms/d/e/1FAIpQLSc7cG1K9ypWdNyvUPDxupOfe2pZCwPP8Y1fXEZqkW_cH4s84A/viewform?usp=sharing&ouid=112733756960616477696)
-    image: /assets/gladiator.jpg
+      [Volunteer Sign Up Link](https://www.signupgenius.com/go/70A0C45ACAF2AA4FD0-63530124-nature#/)
+    image: /assets/nature_ninja_std.jpg
     fontawesome_icon_name: hill-rockslide
+
+  - title: Last day of school & end of year celebration
+    date: Thursday, June 11th
+    
+    image: /assets/grad.jpg
+    fontawesome_icon_name: graduation-cap
+
 
   - title: Save the Date-2nd Annual TBT PTO Summer Campout
     date: Thursday June 18th-Saturday June 20th
