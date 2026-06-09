@@ -7,29 +7,10 @@ include_in_header: false
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 content_list: 
   - title: Next Meeting
-    date: Tuesday May 13th 4:15pm
+    date: September
     description: |
       In-person on the farm (childcare provided)
     fontawesome_icon_name: handshake
-
-  
-  - title: Picture Day
-    date: Thursday, May 14th
-    description: |
-      [schoolartstudio.com](https://schoolartstudio.com )
-    image: /assets/pictures.png
-    fontawesome_icon_name: camera
-
-
-  - title: TBT Nature Ninja Challenge 
-    date: Saturday, May 30th
-    description: |
-      Journey through the woods & compete in a nature-based obstacle course to raise money for Turn Back Time. Family fun for all ages: bounce house, food trucks, DJ, touch-a-truck, animal meet & greets 
-
-      
-      [Volunteer Sign Up Link](https://www.signupgenius.com/go/70A0C45ACAF2AA4FD0-63530124-nature#/)
-    image: /assets/nature_ninja_std.jpg
-    fontawesome_icon_name: hill-rockslide
 
   - title: Last day of school & end of year celebration
     date: Thursday, June 11th
@@ -40,7 +21,8 @@ content_list:
 
   - title: Save the Date-2nd Annual TBT PTO Summer Campout
     date: Thursday June 18th-Saturday June 20th
-    desciption: Signups & more info to come
+    description: |
+      [Click here to Register](https://forms.gle/2AFXwMmVMX5kfwhFA)
     image: /assets/camping.png
     fontawesome_icon_name: campground
     
