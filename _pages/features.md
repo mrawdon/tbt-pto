@@ -6,26 +6,15 @@ include_in_header: false
 # Icons can be found here https://fontawesome.com/search?ic=free&o=r
 # Markdown can be used in title and description https://www.markdownguide.org/basic-syntax/
 content_list: 
-  - title: Next Meeting
-    date: September
+  - title: Upcoming Meetings
     description: |
-      In-person on the farm (childcare provided)
+      * Sept. 10th 4:15pm on the farm
+      * Oct. 15th 7pm virtual (link sent out day of)
+      * Nov. 12th 4:15pm on the farm: 26-27 PTO Board Elections 
+      * Dec. 10th virtual 7pm virtual (link sent out day of)
+      
+      Children are welcome to attend
     fontawesome_icon_name: handshake
-
-  - title: Last day of school & end of year celebration
-    date: Thursday, June 11th
-    
-    image: /assets/grad.jpg
-    fontawesome_icon_name: graduation-cap
-
-
-  - title: Save the Date-2nd Annual TBT PTO Summer Campout
-    date: Thursday June 18th-Saturday June 20th
-    description: |
-      [Click here to Register](https://forms.gle/2AFXwMmVMX5kfwhFA)
-    image: /assets/camping.png
-    fontawesome_icon_name: campground
-    
 
   - title: Make a Donation
     description: |
