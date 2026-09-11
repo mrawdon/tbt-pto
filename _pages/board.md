@@ -25,7 +25,7 @@ content_list:
       image:  /assets/becky.jpg
     - name: Beth Preston
       role: Teacher Ambassador
-      
+      description: I am excited to be joining the PTO this year as the “Teacher Ambassador.” I look forward to working with the vibrant group of parent volunteers  to support and enrich the entire farm school community.
       image:  /assets/beth.png
 ---
 
