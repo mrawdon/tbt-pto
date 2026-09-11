@@ -18,14 +18,14 @@ content_list:
     - name: Megan Gadbois
       role: Secretary
       description: I love TBT because it allows my son (and eventually daughter) to learn in harmony with nature. The school nurtures curiosity, play, and discovery in a way that feels organic and soulful, and I’m grateful to be part of that journey. Through the PTO, I look forward to uplifting this community and offering my support wherever it’s needed.
-      image:  /assets/megan.jpg
+      image:  /assets/megan.heic
     - name: Becky Kimball
       role: Treasurer
       description: I love TBT for its unique outside educational environment handcrafted by its dedicated staff.
       image:  /assets/becky.jpg
-    - name: Nancy Baffa
+    - name: Beth Preston
       role: Teacher Ambassador
-      description: I am excited to be joining the PTO this year as the “Teacher Ambassador.” I look forward to working with the vibrant group of parent volunteers  to support and enrich the entire farm school community.
-      image:  /assets/nancy.jpg
+      
+      image:  /assets/beth.png
 ---
 
