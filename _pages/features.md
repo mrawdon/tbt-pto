@@ -14,11 +14,7 @@ content_list:
       
       Children are welcome to attend
     fontawesome_icon_name: handshake
-  
-  - title: Forest Fest 
-    date: September 19 1-6pm
-    image: /assets/forest_fest.heic
-    fontawesome_icon_name: tree
+
 
   - title: TBT Scholarship Golf Tournament 
     date: October 11 7:30am
@@ -29,9 +25,18 @@ content_list:
 
   - title: Bemis Farms Scarecrow Building Fundraiser for TBT PTO
     date: Sept. 19-Oct. 20 Saturdays and Sundays
+    image: /assets/bemis.jpg
     fontawesome_icon_name: seedling
     description: |
+      Build a scarecrow and support our school! $10 from every scarecrow goes to Turn Back Time. Attend any weekend Sept. 19-Oct. 18 or join us for a TBT meet up at 1:00pm on 10/17. 
+      
       [Click here for additional info & to reserve your spot.](https://www.bemisfarmsnursery.com/scarecrows.html)
+
+  - title: October Staff Appreciation Potluck
+    date: 10/5-10/8 
+    fontawesome_icon_name: bowl-food
+    description: |
+      [Sign Up](https://www.signupgenius.com/go/70A0C45ACAF2AA4FD0-66231081-tbtstaff)
 
   - title: Harvest Party at TBT 
     date: Oct. 29 4:30-6:30pm 
