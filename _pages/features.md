@@ -14,13 +14,6 @@ content_list:
       Children are welcome to attend
     fontawesome_icon_name: handshake
 
-  - title: Harvest Party at TBT 
-    date: Oct. 29 4:30-6:30pm 
-    fontawesome_icon_name: ghost
-    image: /assets/harvest_party_flyer.jpg
-    description: |
-      Pumpkin decorating, spooky crafts, campfire & snacks 
-
   - title: Yoga on the Farm
     date: Nov. 13 9:30-11:30
     fontawesome_icon_name: spa
