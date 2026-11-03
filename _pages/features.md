@@ -17,7 +17,7 @@ content_list:
   - title: Harvest Party at TBT 
     date: Oct. 29 4:30-6:30pm 
     fontawesome_icon_name: ghost
-    image: /assets/harvest_party.jpg
+    image: /assets/harvest_party_flyer.jpg
     description: |
       Pumpkin decorating, spooky crafts, campfire & snacks 
 
@@ -36,6 +36,11 @@ content_list:
     description: |
       Drop off a homemade card or drawing in the bin located in the welcome garden. Cards will be brought to a local nursing home before Thanksgiving. 
 
+  - title: Staff Giving Tree
+    date: Nov. 16-Dec. 10
+    fontawesome_icon_name: tree
+    description: |
+      If you choose to select a tag, please return the unwrapped gift with the tag by 12/10. Tags will include items from the TBT wishlist & staff choice survey.
 
   - title: Make a Donation
     description: |
